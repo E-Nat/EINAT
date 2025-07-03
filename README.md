@@ -1,7 +1,10 @@
 ## Hi, I'm E-Nat ☕️
 <br>Computer science student at AUB school <br/>
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<br>🔭 I’m currently working, but not in the same field as what I studied<br/>  
+<br>👯 I’m looking to collaborate on web development and open-source projects  <br/>
+<br>🤝 I’m looking for help with learning React and building portfolio projects <br/> 
+<br>⚡ Fun fact: I love exploring new coffee shops while coding!<br/>
 
 
 # 💻 Tech Stack:

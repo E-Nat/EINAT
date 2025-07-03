@@ -1,17 +1,11 @@
 ## Hi, I'm E-Nat ☕️
-<br>Computer science student at AUB school <br/>
-# 💫 About Me:
-🔭 I’m currently working, but not in the same field as what I studied  
-👯 I’m looking to collaborate on web development and open-source projects  
-🤝 I’m looking for help with learning React and building portfolio projects 
-⚡ Fun fact: I love exploring new coffee shops while coding!
+🎓 Computer Science student at AUB School
 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-## 🌐 Socials:
+💫 About Me
+🔧 Working quietly behind the scenes
+💻 Learning and building whenever I can
+🌱 Always improving, one commit at a time
+☕️ Caffeine-powered coding sessions
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/16GcrsFhxr/?mibextid=LQQJ4d) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@eiinat168) 
 
 # 📊 GitHub Stats:

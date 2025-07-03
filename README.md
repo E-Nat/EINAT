@@ -4,6 +4,7 @@
 🔭 I’m currently working, but not in the same field as what I studied  
 👯 I’m looking to collaborate on web development and open-source projects  
 🤝 I’m looking for help with learning React and building portfolio projects 
+
 ⚡ Fun fact: I love exploring new coffee shops while coding!
 
 

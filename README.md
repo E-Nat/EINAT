@@ -1,9 +1,8 @@
 ## Hi, I'm E-Nat ☕️
-🎓 Computer Science student at AUB School
-
+🎓 Computer Science student at AUB 
 <br> 💫 About Me <br/>
 <br>🔧 Working quietly behind the scenes <br>
-<br>💻 Learning and building whenever I can <br/>
+<br>💻 I'm Currently studying and cooking up code</br>
 <br>🌱 Always improving, one commit at a time<br/>
 <br>☕️ Caffeine-powered coding sessions <br/>
 
